@@ -3,6 +3,11 @@
 使用GitHub Pages功能公开的网页可以从[这里](https://elmas3.github.io/mao-seminar/)访问：
 https://elmas3.github.io/mao-seminar/
 
+# 成员
+张三
+李四
+王五
+
 # 目录
 ```
 seminar/
